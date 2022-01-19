@@ -1,0 +1,52 @@
+header{
+    background-color: blue;
+}
+.MyTripNow{
+    text-align: center;
+    font-family: 'Nunito';
+    color: cyan;
+}
+.login{
+    width: 30px;;
+    height: 30px;
+    background: plum;
+    
+}
+.body{
+    background-color: lightblue;
+}
+.paragraf {
+    font-size:16px; line-height: 2em;
+    text-indent: 45px;
+    color:black;
+}
+.image1{
+    float: right;
+    width: 300px;
+}
+.image2{
+    float: left;
+    width: 250px;
+}
+.box {
+    
+    height: 170px;
+    border: 2px solid red;
+}
+footer{
+    grid-area: footer;
+    background-color:cyan;
+}
+.imgfooter{
+    width: 80px;
+}
+.imgfooter2{
+    width: 100px;
+    float: right;
+}
+.box1 {
+    float: right;
+    width: 90px;
+    height: 30px;
+    border: 2px solid rgb(217, 255, 0);
+}
